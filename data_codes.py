@@ -123,3 +123,6 @@ plt.xticks(rotation=45, ha='right')
 plt.legend(title="Supplier", bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 plt.show()
+
+
+print('hello world')
